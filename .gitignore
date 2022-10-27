@@ -8,7 +8,6 @@
 d3rlpy_data
 test_data
 runs
-d3rlpy_logs
 docs/_build
 docs/d3rlpy*.rst
 docs/modules.rst
@@ -20,3 +19,4 @@ build
 dist
 /.idea/
 *.egg-info
+.DS_Store
